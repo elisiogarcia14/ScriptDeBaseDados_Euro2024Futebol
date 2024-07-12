@@ -1,0 +1,2 @@
+# ScriptDeBaseDados_Euro2024Futebol
+ ProjectoDoExame
